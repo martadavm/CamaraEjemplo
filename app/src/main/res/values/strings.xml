@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CamaraEjemplo</string>
+    <string name="captura">Captura Miniatura</string>
+    <string name="altaResolucion">Captura Alta Resolucion</string>
+</resources>
